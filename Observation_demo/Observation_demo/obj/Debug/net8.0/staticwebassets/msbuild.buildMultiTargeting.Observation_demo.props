@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Observation_demo.props" />
+</Project>

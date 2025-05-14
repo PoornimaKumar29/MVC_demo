@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\models\\studentrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\models\\studentrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\models\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\models\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|d:\\poornima kumar\\hexaware rolebased training\\demo\\observation_demo\\observation_demo\\views\\student\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B813A12-74E2-4258-87D4-6AAC8F0B6C5D}|Observation_demo\\Observation_demo.csproj|solutionrelative:observation_demo\\views\\student\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Models\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "Observation_demo\\Models\\IStudentRepo.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Models\\IStudentRepo.cs",
+              "RelativeToolTip": "Observation_demo\\Models\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:46:54.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Observation_demo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Observation_demo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:25:55.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepoImpl.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Models\\StudentRepoImpl.cs",
+              "RelativeDocumentMoniker": "Observation_demo\\Models\\StudentRepoImpl.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Models\\StudentRepoImpl.cs",
+              "RelativeToolTip": "Observation_demo\\Models\\StudentRepoImpl.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:18:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Program.cs",
+              "RelativeDocumentMoniker": "Observation_demo\\Program.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Program.cs",
+              "RelativeToolTip": "Observation_demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:38:50.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Views\\Student\\View.cshtml",
+              "RelativeDocumentMoniker": "Observation_demo\\Views\\Student\\View.cshtml",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Views\\Student\\View.cshtml",
+              "RelativeToolTip": "Observation_demo\\Views\\Student\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T10:06:18.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Observation_demo\\Models\\Student.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Models\\Student.cs",
+              "RelativeToolTip": "Observation_demo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:19:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Observation_demo\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Rolebased Training\\Demo\\Observation_demo\\Observation_demo\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Observation_demo\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:40:53.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
